@@ -1,6 +1,5 @@
 <h1 align="center">Hola! Soy tiki 👋</h1>
 
----
 
 ### 💻 Sobre mí
 
