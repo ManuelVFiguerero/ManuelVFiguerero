@@ -25,7 +25,7 @@
 
 ### 🌐 Conectá conmigo
 
-- 💼 [LinkedIn]https://www.linkedin.com/in/manuel-vicente-figuerero-mantilla-41a31a1bb/
+- 💼 https://www.linkedin.com/in/manuel-vicente-figuerero-mantilla-41a31a1bb/
 - 💻 Portfolio: *[proximamente]*  
 - 📧 manuelfiguereromantilla@gmail.com
 
