@@ -1,12 +1,11 @@
-<h1 align="center">Hola! Soy Vicen 👋</h1>
-<p align="center">Apasionado por la tecnología, la programación y los desafíos creativos.</p>
+<h1 align="center">Hola! Soy tiki 👋</h1>
 
 ---
 
 ### 💻 Sobre mí
 
 - 🎓 Estudiante de Ingeniería en Informática
-- 🧠 Curioso por el aprendizaje continuo (IA, desarrollo web, apps móviles)
+- 🧠 Curioso por el aprendizaje continuo y tendencias tegnologicas(IA, desarrollo web, apps móviles)
 - ✈️ Explorador de culturas y naturaleza 🌴 (¡viajes también inspiran código!)
 - 🛠 Actualmente trabajando en una app de obra social con React Native
 
@@ -22,23 +21,14 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=white&style=flat)
 
----
-
-### 📈 Stats de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vicenfiguerero&show_icons=true&theme=react&count_private=true" alt="Vicen's GitHub stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicenfiguerero&layout=compact&theme=react" />
-</p>
 
 ---
 
 ### 🌐 Conectá conmigo
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario)  
+- 💼 [LinkedIn]https://www.linkedin.com/in/manuel-vicente-figuerero-mantilla-41a31a1bb/
 - 💻 Portfolio: *[proximamente]*  
-- 📧 vicenfiguerero@email.com
+- 📧 manuelfiguereromantilla@gmail.com
 
 ---
 
