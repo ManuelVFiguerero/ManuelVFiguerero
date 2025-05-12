@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Hola! Soy Vicen 👋</h1>
+<p align="center">Apasionado por la tecnología, la programación y los desafíos creativos.</p>
 
-<!--
-**ManuelVFiguerero/ManuelVFiguerero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💻 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Estudiante de Ingeniería en Informática
+- 🧠 Curioso por el aprendizaje continuo (IA, desarrollo web, apps móviles)
+- ✈️ Explorador de culturas y naturaleza 🌴 (¡viajes también inspiran código!)
+- 🛠 Actualmente trabajando en una app de obra social con React Native
+
+---
+
+### 🚀 Tecnologías & Herramientas
+
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![Express](https://img.shields.io/badge/-Express-black?logo=express&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=white&style=flat)
+
+---
+
+### 📈 Stats de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vicenfiguerero&show_icons=true&theme=react&count_private=true" alt="Vicen's GitHub stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicenfiguerero&layout=compact&theme=react" />
+</p>
+
+---
+
+### 🌐 Conectá conmigo
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario)  
+- 💻 Portfolio: *[proximamente]*  
+- 📧 vicenfiguerero@email.com
+
+---
+
+> *"Transformando ideas en soluciones funcionales, una línea de código a la vez."*
+
